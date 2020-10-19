@@ -1,3 +1,4 @@
 *.code-workspace
 server/node_modules
 web/node_modules
+.idea/
